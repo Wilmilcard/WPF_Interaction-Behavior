@@ -13,7 +13,7 @@
 
 # 🚩 Objetivo
 
-Este proyecto esta desarrollado C# y UWP con el fin de mirar el uso de serializado de imagenes y deserializado de las mismas, como por ejemplo si se requiere guardar una imagen serealizada como tal (aunque no es la mejor practica recomendada)
+Este proyecto esta desarrollado C# y WPF con el fin de aprender a usar los Interaction Behavior
 
 - **[Web del desarrollador](https://nevergate.com.co/)**
 

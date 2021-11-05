@@ -13,7 +13,7 @@
 
 # 🚩 Objetivo
 
-Este proyecto esta desarrollado C# y WPF con el fin de aprender a usar los Interaction Behavior
+Este proyecto esta desarrollado C# y WPF con el fin de aprender a usar los Interaction Behavior.
 
 - **[Web del desarrollador](https://nevergate.com.co/)**
 
